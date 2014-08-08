@@ -1,0 +1,36 @@
+   _heartbeat_                                                  a  \
+0          NaN  Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKi...   
+1          NaN                             GoogleMaps/RochesterNY   
+2          NaN  Mozilla/4.0 (compatible; MSIE 8.0; Windows NT ...   
+3          NaN  Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8)...   
+4          NaN  Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKi...   
+
+               al   c          cy       g  gr       h          hc         hh  \
+0  en-US,en;q=0.8  US     Danvers  A6qOVH  MA  wfLQtf  1331822918  1.usa.gov   
+1             NaN  US       Provo  mwszkS  UT  mwszkS  1308262393       j.mp   
+2           en-US  US  Washington  xxr3Qb  DC  xxr3Qb  1331919941  1.usa.gov   
+3           pt-br  BR        Braz  zCaLwp  27  zUtuOu  1331923068  1.usa.gov   
+4  en-US,en;q=0.8  US  Shrewsbury  9b6kNl  MA  9b6kNl  1273672411     bit.ly   
+
+    kw         l                        ll  nk  \
+0  NaN   orofrog   [42.576698, -70.954903]   1   
+1  NaN     bitly  [40.218102, -111.613297]   0   
+2  NaN     bitly     [38.9007, -77.043098]   1   
+3  NaN  alelex88  [-23.549999, -46.616699]   0   
+4  NaN     bitly   [42.286499, -71.714699]   0   
+
+                                                   r           t  \
+0  http://www.facebook.com/l/7AQEFzjSi/1.usa.gov/...  1331923247   
+1                           http://www.AwareMap.com/  1331923249   
+2                               http://t.co/03elZC4Q  1331923250   
+3                                             direct  1331923249   
+4                http://www.shrewsbury-ma.gov/selco/  1331923251   
+
+                  tz                                                  u  
+0   America/New_York        http://www.ncbi.nlm.nih.gov/pubmed/22415991  
+1     America/Denver        http://www.monroecounty.gov/etc/911/rss.php  
+2   America/New_York  http://boxer.senate.gov/en/press/releases/0316...  
+3  America/Sao_Paulo            http://apod.nasa.gov/apod/ap120312.html  
+4   America/New_York  http://www.shrewsbury-ma.gov/egov/gallery/1341...  
+
+[5 rows x 18 columns]

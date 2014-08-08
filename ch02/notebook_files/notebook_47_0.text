@@ -1,0 +1,15 @@
+   user_id  movie_id  rating  timestamp gender  age  occupation    zip  \
+0        1      1193       5  978300760      F    1          10  48067   
+1        2      1193       5  978298413      M   56          16  70072   
+2       12      1193       4  978220179      M   25          12  32793   
+3       15      1193       4  978199279      M   25           7  22903   
+4       17      1193       5  978158471      M   50           1  95350   
+
+                                    title genres  
+0  One Flew Over the Cuckoo's Nest (1975)  Drama  
+1  One Flew Over the Cuckoo's Nest (1975)  Drama  
+2  One Flew Over the Cuckoo's Nest (1975)  Drama  
+3  One Flew Over the Cuckoo's Nest (1975)  Drama  
+4  One Flew Over the Cuckoo's Nest (1975)  Drama  
+
+[5 rows x 10 columns]

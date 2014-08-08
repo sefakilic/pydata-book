@@ -1,0 +1,9 @@
+                     name sex  births  year      prop
+year sex                                             
+2010 M   1676644    Jacob   M   21875  2010  0.011523
+         1676645    Ethan   M   17866  2010  0.009411
+         1676646  Michael   M   17133  2010  0.009025
+         1676647   Jayden   M   17030  2010  0.008971
+         1676648  William   M   16870  2010  0.008887
+
+[5 rows x 5 columns]

@@ -1,0 +1,14 @@
+                                Not Windows  Windows
+tz                                                  
+                                        245      276
+Africa/Cairo                              0        3
+Africa/Casablanca                         0        1
+Africa/Ceuta                              0        2
+Africa/Johannesburg                       0        1
+Africa/Lusaka                             0        1
+America/Anchorage                         4        1
+America/Argentina/Buenos_Aires            1        0
+America/Argentina/Cordoba                 0        1
+America/Argentina/Mendoza                 0        1
+
+[10 rows x 2 columns]

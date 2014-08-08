@@ -1,0 +1,28 @@
+sex              F                                                          \
+year          1880   1881   1882   1883   1884   1885   1886   1887   1888   
+last_letter                                                                  
+a            31446  31581  36536  38330  43680  45408  49100  48942  59442   
+b              NaN    NaN    NaN    NaN    NaN    NaN    NaN    NaN    NaN   
+c              NaN    NaN      5      5    NaN    NaN    NaN    NaN    NaN   
+d              609    607    734    810    916    862   1007   1027   1298   
+e            33378  34080  40399  41914  48089  49616  53884  54353  66750   
+
+sex                                                                         \
+year          1889   1890   1891   1892   1893   1894   1895   1896   1897   
+last_letter                                                                  
+a            58631  62313  60582  68331  67821  70631  73002  73584  72148   
+b              NaN    NaN    NaN    NaN    NaN    NaN    NaN    NaN    NaN   
+c              NaN    NaN    NaN    NaN    NaN    NaN    NaN      5    NaN   
+d             1374   1438   1512   1775   1821   1985   2268   2372   2455   
+e            66663  70948  67750  77186  76455  79938  83875  84355  82783   
+
+sex                            
+year          1898   1899      
+last_letter                    
+a            79150  70712 ...  
+b              NaN    NaN ...  
+c              NaN    NaN ...  
+d             2953   3028 ...  
+e            91151  81395 ...  
+
+[5 rows x 262 columns]

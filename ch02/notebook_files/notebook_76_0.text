@@ -1,0 +1,9 @@
+                 name sex  births  year      prop
+year sex                                         
+1880 M   942     John   M    9655  1880  0.087381
+         943  William   M    9533  1880  0.086277
+         944    James   M    5927  1880  0.053641
+         945  Charles   M    5348  1880  0.048401
+         946   George   M    5126  1880  0.046392
+
+[5 rows x 5 columns]

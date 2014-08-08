@@ -1,0 +1,8 @@
+        name sex  births  year      prop
+0       Mary   F    7065  1880  0.077643
+1       Anna   F    2604  1880  0.028618
+2       Emma   F    2003  1880  0.022013
+3  Elizabeth   F    1939  1880  0.021309
+4     Minnie   F    1746  1880  0.019188
+
+[5 rows x 5 columns]
